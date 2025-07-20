@@ -6,13 +6,13 @@ import project2_img from '../assets/project_2.png'
 // import project6_img from '../assets/project_6.svg'
 
 const mywork_data = [
-    // {
-    //     w_no:1,
-    //     w_name:"Calculator",
-    //     w_img: project1_img,
-    //     w_Git_link: "https://github.com/tanmoy-paul01/Calculator",
-    //     w_Live_link: "https://tanmoy-paul01.github.io/Calculator/"
-    // },
+     {
+         w_no:1,
+         w_name:"Upskill-Vision",
+         w_img: project1_img,
+         w_Git_link: "https://github.com/Sam460/Fullstack_UpskilVision_1.o",
+         w_Live_link: "https://fullstack-upskil-vision-1-o.vercel.app/login"
+     },
     // {
     //     w_no:2,
     //     w_name:"Tic-Tac-Toe",
